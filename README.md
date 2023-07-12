@@ -1,5 +1,7 @@
 # Examine NAT on Wireless Router
-![Packet Tracer - Examine NAT on a Wireless Router](https://github.com/0xbythesecond/Examine-NAT-on-Wireless-Router/assets/23303634/1e319407-4af9-4bdf-b2f6-f8e408bf94dd)
+![Packet Tracer - Examine NAT on a Wireless Router](https://github.com/0xbythesecond/Examine-NAT-on-Wireless-Router/assets/23303634/2ad802db-fb8b-4d38-99d8-33ef7ed15b7c)
+
+
 
 
 Lab/Lesson: Examine NAT on a Wireless Router using Packet Tracer
