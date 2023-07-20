@@ -33,11 +33,11 @@ In this part, I added three more PCs and connected them to the wireless router u
   >**Note**: I understood that these devices would receive private addresses that cannot cross the internet, necessitating NAT translation.
 
 ### Part 4: View NAT translation across the wireless router
-In this part, I entered Simulation mode and created a Complex PDU to view traffic. I set the source PC (PC0), specified the destination server, and configured PDU settings such as the application and source port. By playing the simulation, I observed the traffic flow across the network with NAT translation.
+In this part, I entered Simulation mode and created a Complex PDU to view traffic. I set the source PC (PC0), specified the destination server (ciscolearn.net.com), and configured PDU settings such as the application and source port. By playing the simulation, I observed the traffic flow across the network with NAT translation.
 ![Adding Complex PDU](https://github.com/0xbythesecond/Examine-NAT-on-Wireless-Router/assets/23303634/d3157677-f5b9-47b8-880c-94670cb2c304)
 
 
-  >**Note**: I adjusted the simulation speed and clicked "View Previous Events" when necessary.
+  >**Note**: I adjusted the simulation speed and clicked "View Previous Events" when necessary provided below once the events reached their capacity.
 
 ### Part 5: View the header information of the packets that traveled across the network
 In this part, I examined the headers of the packets sent between a PC and the web server. I accessed the Simulation Panel, selected an event, and viewed the packet and header information. I checked the Inbound and Outbound PDU details to observe the source (SRC) and destination IP addresses, noticing the change in the source IP address.
